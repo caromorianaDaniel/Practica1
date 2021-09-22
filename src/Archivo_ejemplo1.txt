@@ -1,1 +1,3 @@
 Este mensaje ha sido escrito antes de empezar a usar los comandos git.
+
+Este mensaje fue escritpo Cuando ya se ha subido.
